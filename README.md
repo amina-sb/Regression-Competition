@@ -2,7 +2,7 @@
 
 # House Price Regression (Ames, Iowa)
 
-Team: Amina Salamatolla, Dianna Mirtayeva
+Team: Amina Salamatolla, Dianna Mirtayeva and
 Kaggle competition: [Regression for house prices](https://www.kaggle.com/competitions/regression-for-house-prices)
 
 ## Goal
